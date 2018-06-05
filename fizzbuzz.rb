@@ -7,8 +7,7 @@ def fizzbuzz(number)
     "Fizz"
   end 
 end 
-  
-end 
+
 puts fizzbuzz(15)
 puts fizzbuzz (9)
 puts fizzbuzz (20)
