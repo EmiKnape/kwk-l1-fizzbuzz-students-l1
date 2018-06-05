@@ -10,3 +10,6 @@ def fizzbuzz(number)
   
 end 
 puts fizzbuzz(15)
+puts fizzbuzz (9)
+puts fizzbuzz (20)
+puts fizzbuzz (4)
